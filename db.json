@@ -1,0 +1,10 @@
+{
+  "openhab_cfg": {
+    "oh_http": "Http",
+    "oh_hostname": "localhost",
+    "oh_port": "8080"
+  },
+  "plex_cfg": {
+    "plex_api_refint": 1000
+  }
+}
